@@ -1,0 +1,10 @@
+{
+  "name": "feedmefunctions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Conor Sinclair",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/functions": "^0.7.2"
+  }
+}
